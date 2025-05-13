@@ -1,0 +1,21 @@
+/* این کد برای استایل دادن به بخش بدنه (body) سایت است */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+/* این کد برای استایل دادن به عنوان سایت (header) است */
+h1 {
+    text-align: center;
+    color: #4CAF50;
+}
+
+/* این کد برای استایل دادن به پاراگراف‌ها (p) است */
+p {
+    font-size: 18px;
+    line-height: 1.6;
+    text-align: center;
+}
